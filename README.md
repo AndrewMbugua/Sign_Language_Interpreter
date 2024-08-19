@@ -1,7 +1,5 @@
 # Computer Vision Project – Sign language interpreter
 
-# Computer Vision Project – Sign language interpreter
-
 ### INTRODUCTION
 
 Not everyone understands sign language,this project aims to solve this by removing the need of having a person who understands sign language interpret every single sign.
